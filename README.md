@@ -1,7 +1,11 @@
 # AI-Powered Content Curation API
 
 
-https://github.com/user-attachments/assets/d0bd6f04-f04e-46d6-ba17-f8fd5599b758
+
+https://github.com/user-attachments/assets/5dcd3c22-16fa-4a05-9a9f-5c072b15c32e
+
+
+
 
 
 **Created by Injamul Haque, Software Engineer (AI/ML)**
