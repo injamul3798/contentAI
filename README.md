@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/5dcd3c22-16fa-4a05-9a9f-5c072b15c32e
 
 ## Project Objective
 
-A REST API for content curation, summarization, and AI-powered analysis, demonstrating expertise in backend development, modern technologies, and best practices.
+A REST API for content curation, summarization, and AI-powered analysis using Langchain and DeepSeek models, demonstrating expertise in backend development, modern technologies, and best practices.
 
 ---
 
