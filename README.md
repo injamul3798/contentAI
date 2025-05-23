@@ -26,7 +26,7 @@ A REST API for content curation, summarization, and AI-powered analysis using La
 - **Containerization:** Docker & Docker Compose
 - **CI/CD:** GitHub Actions
 - **AI Integration:** GROQ API via LangChain
-- **Frontend:** (Optional, included in repo)
+- **Frontend:** React
 
 ---
 
